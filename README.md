@@ -1,2 +1,2 @@
 # cafeteria_
- HTML e CSS || Preços e Produtos.
+ Preços e Produtos.
