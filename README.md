@@ -1,2 +1,2 @@
 # cafeteria_
- Preços e Produtos.
+ Preços e Produtos de uma cafeteria.
